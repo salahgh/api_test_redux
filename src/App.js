@@ -9,12 +9,6 @@ function App() {
             <Button variant={'contained'} onClick={() => alert('hello heroku')}>
                 hello heroku
             </Button>
-            <Button variant={'contained'} onClick={() => alert('hello heroku')}>
-                hello heroku
-            </Button>
-            <Button variant={'contained'} onClick={() => alert('hello heroku')}>
-                hello heroku
-            </Button>
         </Stack>
     </div>
   );
