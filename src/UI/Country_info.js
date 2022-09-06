@@ -12,7 +12,7 @@ export const CountryInfo = () => {
     const dispach = useDispatch()
 
     const country = country_data && country_data.filter((item) => item.alpha_3 === iso)
-  //
+    ///
     return (
         <Dialog open={open}>
             <DialogTitle>title</DialogTitle>
